@@ -1,7 +1,9 @@
----------3DPBMRH---------
+---------3DPBMRH----------
 
 3D PRINTED PARTS:
 (COMING SOON)
+YOU CAN VIEW AND EXPORT THE CURRENT STATE BELOW
+https://cad.onshape.com/documents/6445628dd965180b5cf022e6/w/2d8ed34acf1b399438fffb17/e/ae9c7fec68bfd67029e65b12?renderMode=0&uiState=6571d28ade74c94ef21b0bc0
 
 OTHER PARTS:
 L SPEAKER https://tundra-labs.com/en-gb/products/valve-index?variant=41566176608465
