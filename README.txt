@@ -12,5 +12,4 @@ M2 Nuts & Bolts: https://www.amazon.co.uk/dp/B09SH7N5PV?psc=1&ref=ppx_yo2ov_dt_b
 Pico Amp: https://github.com/sctanf/picoamp (two amps, a resistor and a raspberry pi pico)
 FOAM (COMING SOON)
 
-MOST OF THE DEVELOPMENT SO FAR HAS BEEN DONE ON THE SADLYITSBRADLEY DISCORD SERVER LINKED HERE:
-https://discord.gg/meNrKNf8Wh (I'M USUALLY IN THE #DO-IT-YOURESELF CHAT, JUST SEARCH FOR 'SNERTTT')
+My Discord: snerttt
